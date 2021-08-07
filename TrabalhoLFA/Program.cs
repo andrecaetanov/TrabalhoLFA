@@ -6,11 +6,14 @@ using TrabalhoLFA.Entidades;
 
 namespace TrabalhoLFA
 {
+    // TODO: Validar AFD
+    // TODO: Definir mensagens de início e fim de execução
+    // TODO: Validar com o professor a forma para delimitar as palavras no arquivo texto (outros), definir os arquivos de entrada e indicar erros léxicos
     class Program
     {
         static void Main(string[] args)
         {
-            var afdJson = File.ReadAllText("afd-entrada.json");
+            var afdJson = File.ReadAllText("afd.json");
             var afd = JsonSerializer.Deserialize<AFD>(afdJson);
 
             var tokensText = File.ReadAllText("tokens.txt");
