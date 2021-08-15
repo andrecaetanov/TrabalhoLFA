@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace TrabalhoLFA.Entidades
 {
@@ -10,6 +8,6 @@ namespace TrabalhoLFA.Entidades
         public List<Estado> Estados { get; set; }
         public List<Transicao> FuncaoPrograma { get; set; }
         public Estado EstadoInicial { get; set; }
-        public List<Estado> EstadosFinais { get; set; }
+        public List<EstadoFinal> EstadosFinais { get; set; }
     }
 }
