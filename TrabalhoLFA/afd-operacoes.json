@@ -1,0 +1,446 @@
+{
+  "Conjunto": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "+",
+    "-",
+    "*",
+    "/",
+    "=",
+    "x"
+  ],
+  "Estados": [
+    {
+      "Nome": "q1"
+    },
+    {
+      "Nome": "q2"
+    },
+    {
+      "Nome": "q3"
+    },
+    {
+      "Nome": "q4"
+    },
+    {
+      "Nome": "q5"
+    },
+    {
+      "Nome": "q6"
+    }
+  ],
+  "FuncaoPrograma": [
+    {
+      "Origem": {
+        "Nome": "q1"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "1"
+    },
+    {
+      "Origem": {
+        "Nome": "q1"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "2"
+    },
+    {
+      "Origem": {
+        "Nome": "q1"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "3"
+    },
+    {
+      "Origem": {
+        "Nome": "q1"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "4"
+    },
+    {
+      "Origem": {
+        "Nome": "q1"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "5"
+    },
+    {
+      "Origem": {
+        "Nome": "q1"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "6"
+    },
+    {
+      "Origem": {
+        "Nome": "q1"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "7"
+    },
+    {
+      "Origem": {
+        "Nome": "q1"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "8"
+    },
+    {
+      "Origem": {
+        "Nome": "q1"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "9"
+    },
+    {
+      "Origem": {
+        "Nome": "q2"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "0"
+    },
+    {
+      "Origem": {
+        "Nome": "q2"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "1"
+    },
+    {
+      "Origem": {
+        "Nome": "q2"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "2"
+    },
+    {
+      "Origem": {
+        "Nome": "q2"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "3"
+    },
+    {
+      "Origem": {
+        "Nome": "q2"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "4"
+    },
+    {
+      "Origem": {
+        "Nome": "q2"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "5"
+    },
+    {
+      "Origem": {
+        "Nome": "q2"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "6"
+    },
+    {
+      "Origem": {
+        "Nome": "q2"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "7"
+    },
+    {
+      "Origem": {
+        "Nome": "q2"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "8"
+    },
+    {
+      "Origem": {
+        "Nome": "q2"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "9"
+    },
+    {
+      "Origem": {
+        "Nome": "q2"
+      },
+      "Destino": {
+        "Nome": "q3"
+      },
+      "Simbolo": "+"
+    },
+    {
+      "Origem": {
+        "Nome": "q2"
+      },
+      "Destino": {
+        "Nome": "q3"
+      },
+      "Simbolo": "-"
+    },
+    {
+      "Origem": {
+        "Nome": "q2"
+      },
+      "Destino": {
+        "Nome": "q3"
+      },
+      "Simbolo": "*"
+    },
+    {
+      "Origem": {
+        "Nome": "q2"
+      },
+      "Destino": {
+        "Nome": "q3"
+      },
+      "Simbolo": "/"
+    },
+    {
+      "Origem": {
+        "Nome": "q3"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "1"
+    },
+    {
+      "Origem": {
+        "Nome": "q3"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "2"
+    },
+    {
+      "Origem": {
+        "Nome": "q3"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "3"
+    },
+    {
+      "Origem": {
+        "Nome": "q3"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "4"
+    },
+    {
+      "Origem": {
+        "Nome": "q3"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "5"
+    },
+    {
+      "Origem": {
+        "Nome": "q3"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "6"
+    },
+    {
+      "Origem": {
+        "Nome": "q3"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "7"
+    },
+    {
+      "Origem": {
+        "Nome": "q3"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "8"
+    },
+    {
+      "Origem": {
+        "Nome": "q3"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "9"
+    },
+    {
+      "Origem": {
+        "Nome": "q4"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "0"
+    },
+    {
+      "Origem": {
+        "Nome": "q4"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "1"
+    },
+    {
+      "Origem": {
+        "Nome": "q4"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "2"
+    },
+    {
+      "Origem": {
+        "Nome": "q4"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "3"
+    },
+    {
+      "Origem": {
+        "Nome": "q4"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "4"
+    },
+    {
+      "Origem": {
+        "Nome": "q4"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "5"
+    },
+    {
+      "Origem": {
+        "Nome": "q4"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "6"
+    },
+    {
+      "Origem": {
+        "Nome": "q4"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "7"
+    },
+    {
+      "Origem": {
+        "Nome": "q4"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "8"
+    },
+    {
+      "Origem": {
+        "Nome": "q4"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "9"
+    },
+    {
+      "Origem": {
+        "Nome": "q4"
+      },
+      "Destino": {
+        "Nome": "q5"
+      },
+      "Simbolo": "="
+    },
+    {
+      "Origem": {
+        "Nome": "q5"
+      },
+      "Destino": {
+        "Nome": "q6"
+      },
+      "Simbolo": "x"
+    }
+  ],
+  "EstadoInicial": {
+    "Nome": "q1"
+  },
+  "EstadosFinais": [
+    {
+      "Nome": "q6"
+    }
+  ]
+}
