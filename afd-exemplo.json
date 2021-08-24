@@ -1,0 +1,11 @@
+{
+    "Conjunto": ["a", "b"],
+    "Estados": [{ "Nome": "q1" }, { "Nome": "q2" }, { "Nome": "q3" }],
+    "FuncaoPrograma": [
+        { "Origem": { "Nome": "q1" }, "Destino": { "Nome": "q2" }, "Simbolo": "a" },
+        { "Origem": { "Nome": "q2" }, "Destino": { "Nome": "q2" }, "Simbolo": "b" },
+        { "Origem": { "Nome": "q2" }, "Destino": { "Nome": "q3" }, "Simbolo": "a" }
+    ],
+    "EstadoInicial": { "Nome": "q1" },
+    "EstadosFinais": [{ "Nome": "q3" }]
+}
