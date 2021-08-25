@@ -1,0 +1,142 @@
+{
+  "Conjunto": [
+    "a",
+    "b",
+    "c"
+  ],
+  "Estados": [
+    {
+      "Nome": "q1"
+    },
+    {
+      "Nome": "q2"
+    },
+    {
+      "Nome": "q3"
+    },
+    {
+      "Nome": "q4"
+    },
+    {
+      "Nome": "q5"
+    }
+  ],
+  "FuncaoPrograma": [
+    {
+      "Origem": {
+        "Nome": "q1"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "a"
+    },
+    {
+      "Origem": {
+        "Nome": "q1"
+      },
+      "Destino": {
+        "Nome": "q3"
+      },
+      "Simbolo": "b"
+    },
+    {
+      "Origem": {
+        "Nome": "q1"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "c"
+    },
+    {
+      "Origem": {
+        "Nome": "q2"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "b"
+    },
+    {
+      "Origem": {
+        "Nome": "q2"
+      },
+      "Destino": {
+        "Nome": "q2"
+      },
+      "Simbolo": "c"
+    },
+    {
+      "Origem": {
+        "Nome": "q3"
+      },
+      "Destino": {
+        "Nome": "q3"
+      },
+      "Simbolo": "a"
+    },
+    {
+      "Origem": {
+        "Nome": "q3"
+      },
+      "Destino": {
+        "Nome": "q3"
+      },
+      "Simbolo": "c"
+    },
+    {
+      "Origem": {
+        "Nome": "q4"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "a"
+    },
+    {
+      "Origem": {
+        "Nome": "q4"
+      },
+      "Destino": {
+        "Nome": "q4"
+      },
+      "Simbolo": "b"
+    },
+    {
+      "Origem": {
+        "Nome": "q2"
+      },
+      "Destino": {
+        "Nome": "q5"
+      },
+      "Simbolo": "a"
+    },
+    {
+      "Origem": {
+        "Nome": "q3"
+      },
+      "Destino": {
+        "Nome": "q5"
+      },
+      "Simbolo": "b"
+    },
+    {
+      "Origem": {
+        "Nome": "q4"
+      },
+      "Destino": {
+        "Nome": "q5"
+      },
+      "Simbolo": "c"
+    }
+  ],
+  "EstadoInicial": {
+    "Nome": "q1"
+  },
+  "EstadosFinais": [
+    {
+      "Nome": "q5"
+    }
+  ]
+}
